@@ -2,15 +2,15 @@
     "description": "Wildcard for my NGINX Proxy Manager",
 
     "domain": "is-cool.dev",
-    "subdomain": "*.banana",
+    "subdomain": "*.harshavbasotra",
 
     "owner": {
-        "repo": "https://github.com/Wardenking6/bananadev-ml",
-        "email": "supnedoelstudios@gmail.com"
+        "repo": "https://github.com/HarshavBasotra-dev/bananadev-ml",
+        "email": "harshavbasotra@gmail.com"
     },
 
     "record": {
-        "A": ["95.165.13.215"]
+        "CNAME": ["https://harshavbasotra-dev.github.io/bananadev-ml/"]
     },
 
     "proxied": false
