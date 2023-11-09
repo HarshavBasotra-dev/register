@@ -10,7 +10,7 @@
     },
 
     "record": {
-        "CNAME": ["https://harshavbasotra-dev.github.io/bananadev-ml/"]
+        "CNAME": ["harshavbasotra-dev.github.io"]
     },
 
     "proxied": false
